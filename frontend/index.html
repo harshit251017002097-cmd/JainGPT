@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JainGPT — Jainism ko samjho, apni language mein</title>
+  <meta name="description" content="JainGPT is a friendly AI-powered educational chatbot about Jainism. Ask questions in English, Hindi, or Hinglish about Jain philosophy, history, rituals, and more." />
+  <meta name="keywords" content="Jainism, Jain, chatbot, AI, Mahavira, Ahimsa, Tirthankara, Jain philosophy, Jain education" />
+  <meta property="og:title" content="JainGPT — Jainism AI Chatbot" />
+  <meta property="og:description" content="Ask anything about Jainism in English, Hindi, or Hinglish." />
+  <meta property="og:type" content="website" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Background particles / ambient blobs -->
+  <div class="ambient" aria-hidden="true">
+    <div class="ambient-blob blob-1"></div>
+    <div class="ambient-blob blob-2"></div>
+    <div class="ambient-blob blob-3"></div>
+  </div>
+
+  <!-- App Shell -->
+  <div class="app-shell">
+
+    <!-- ── Header ── -->
+    <header class="app-header" role="banner">
+      <div class="header-content">
+        <div class="brand">
+          <span class="brand-icon" aria-hidden="true">🪷</span>
+          <div class="brand-text">
+            <h1 class="brand-name">JainGPT</h1>
+            <p class="brand-tagline">Jainism ko samjho, apni language mein</p>
+          </div>
+        </div>
+        <div class="header-badge">
+          <span class="badge-dot" aria-hidden="true"></span>
+          <span class="badge-text">AI Online</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── Chat Area ── -->
+    <main class="chat-main" role="main" id="chat-main">
+      <div class="chat-scroll" id="chat-scroll" role="log" aria-live="polite" aria-label="Chat conversation">
+
+        <!-- Empty State -->
+        <div class="empty-state" id="empty-state">
+          <div class="empty-icon" aria-hidden="true">🪷</div>
+          <h2 class="empty-title">Namaste! Main JainGPT hoon</h2>
+          <p class="empty-subtitle">
+            Jainism ke baare mein kuch bhi poochho — Hindi, English ya Hinglish mein.<br />
+            <span class="empty-sub2">There are no silly questions here. 🙏</span>
+          </p>
+
+          <!-- Suggested prompt chips -->
+          <div class="suggestion-grid" role="group" aria-label="Suggested questions">
+            <button class="suggestion-chip" id="chip-1" type="button" data-prompt="Jainism kya hai?">
+              <span class="chip-icon">🌏</span>
+              Jainism kya hai?
+            </button>
+            <button class="suggestion-chip" id="chip-2" type="button" data-prompt="Mahavir Swami kaun the?">
+              <span class="chip-icon">🧘</span>
+              Mahavir Swami kaun the?
+            </button>
+            <button class="suggestion-chip" id="chip-3" type="button" data-prompt="Ahimsa kya hota hai?">
+              <span class="chip-icon">☮️</span>
+              Ahimsa kya hota hai?
+            </button>
+            <button class="suggestion-chip" id="chip-4" type="button" data-prompt="24 Tirthankara kaun hain?">
+              <span class="chip-icon">✨</span>
+              24 Tirthankara kaun hain?
+            </button>
+            <button class="suggestion-chip" id="chip-5" type="button" data-prompt="Digambar aur Shwetambar mein kya difference hai?">
+              <span class="chip-icon">⚖️</span>
+              Digambar vs Shwetambar?
+            </button>
+            <button class="suggestion-chip" id="chip-6" type="button" data-prompt="Paryushan kyun manaya jata hai?">
+              <span class="chip-icon">🪔</span>
+              Paryushan kya hai?
+            </button>
+          </div>
+        </div>
+
+        <!-- Messages will be injected here -->
+        <div class="messages" id="messages" role="list"></div>
+
+      </div><!-- /chat-scroll -->
+    </main>
+
+    <!-- ── Input Bar ── -->
+    <footer class="input-bar-wrapper" role="contentinfo">
+      <div class="input-bar">
+        <div class="input-container">
+          <textarea
+            id="user-input"
+            class="user-input"
+            placeholder="Jainism ke baare mein kuch bhi poochho..."
+            rows="1"
+            maxlength="2000"
+            aria-label="Your question about Jainism"
+            autocomplete="off"
+            spellcheck="true"
+          ></textarea>
+          <button
+            id="send-btn"
+            class="send-btn"
+            type="button"
+            aria-label="Send message"
+            disabled
+          >
+            <svg class="send-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <path d="M22 2L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+        </div>
+        <p class="input-hint">Enter to send · Shift+Enter for new line · <span id="char-counter">0</span>/2000</p>
+      </div>
+    </footer>
+
+  </div><!-- /app-shell -->
+
+  <!-- Toast notification -->
+  <div class="toast" id="toast" role="alert" aria-live="assertive"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

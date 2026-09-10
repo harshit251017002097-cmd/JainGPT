@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "topic": "Paryushana",
+      "keywords": ["paryushan", "paryushana", "festival", "fasting", "forgiveness", "das lakshana"],
+      "summary": "Paryushana is the most important annual festival in Jainism, focused on self-reflection, fasting, and forgiveness. Its core themes are introspection on one's actions over the past year and seeking forgiveness from others. The festival culminates in Samvatsari — the day when Jains seek forgiveness by saying 'Micchami Dukkadam' (meaning: 'If I have caused you any harm, knowingly or unknowingly, please forgive me'). Paryushana emphasizes Kshama (forgiveness) as the highest virtue.",
+      "tradition_notes": "Śvētāmbara tradition: called 'Paryushana Parva' — observed for 8 days, ending on Samvatsari. Digambara tradition: called 'Das Lakshana Parva' (Festival of Ten Qualities) — observed for 10 days, ending on Ananta Chaturdashi. The ten qualities (Das Lakshana) are: forgiveness, humility, straightforwardness, contentment, truth, self-restraint, austerity, renunciation, non-possessiveness, celibacy.",
+      "source": "Jain tradition; Kalpasutra"
+    },
+    {
+      "topic": "Mahavir Jayanti",
+      "keywords": ["mahavir jayanti", "mahavira birthday", "birth", "jayanti", "celebration"],
+      "summary": "Mahavir Jayanti marks the birth anniversary of Lord Mahavira, the 24th Tirthankara. It falls on the 13th day of the bright half of the month of Chaitra (March–April). It is celebrated with processions (rath yatras), prayers, recitation of Mahavira's teachings, charitable activities, and visits to Jain temples. It is also a national public holiday in India.",
+      "tradition_notes": "Celebrated by both Digambara and Śvētāmbara traditions, though specific rituals and the birth date calculation may vary slightly.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Jain Diwali",
+      "keywords": ["jain diwali", "diwali", "nirvana", "mahavira nirvana", "dipa", "light"],
+      "summary": "Jain Diwali (also called Vira Nirvana Samvat or Dipa Purnima) commemorates the nirvana (liberation) of Lord Mahavira at Pavapuri. Jains light lamps on this night to symbolize the continuing light of Mahavira's knowledge in the world after the 'lamp of knowledge' (Kevala Jnana) left the world with his nirvana. It coincides with the Hindu festival of Diwali but has a distinct Jain meaning.",
+      "tradition_notes": "Celebrated by both Digambara and Śvētāmbara. Also marks the beginning of the new Jain year (Vira Samvat).",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Akshaya Tritiya",
+      "keywords": ["akshaya tritiya", "akha teej", "akshaya", "rishabhanatha", "first fast"],
+      "summary": "Akshaya Tritiya holds special significance in Jainism as the day Rishabhanatha (the first Tirthankara) broke his year-long fast by accepting sugar cane juice from the king Shreyans Kumar — because the king offered it with the same gesture of service as in a past life, making it acceptable under monastic rules. This marks the first instance of the Jain practice of 'parna' (breaking a fast). Jains observe this day with reverence and often undertake fasting and charitable giving.",
+      "tradition_notes": "Celebrated across both major traditions. Considered particularly auspicious.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Oli Festivals (Ayambil Oli)",
+      "keywords": ["oli", "ayambil oli", "navapad oli", "fasting festival", "nine pads", "siddha chakra"],
+      "summary": "Oli (Ayambil Oli) is a nine-day Śvētāmbara festival observed twice a year — in Ashwin (September–October) and Chaitra (March–April). It involves Ayambil — a strict fasting practice where only one bland, flavorless meal is eaten per day (no spices, oil, milk, or green vegetables). The fast is performed in honor of the Navapad (nine auspicious pads): Arihanta, Siddha, Acharya, Upadhyaya, Sadhu, Right Knowledge, Right Faith, and Right Conduct.",
+      "tradition_notes": "Primarily a Śvētāmbara practice. The Navapad (Siddha Chakra) is the object of veneration.",
+      "source": "Śvētāmbara Jain tradition"
+    },
+    {
+      "topic": "Jnana Panchami",
+      "keywords": ["jnana panchami", "gyan panchami", "knowledge day", "scriptures"],
+      "summary": "Jnana Panchami ('Knowledge Fifth') is a Jain festival celebrating knowledge and Jain scriptures. It falls on the 5th day of the bright half of Kartik (October–November). On this day, Jains worship and show reverence to Jain texts, books, and places of learning. The festival reinforces the importance of Samyak Jnana (Right Knowledge) as one of the Three Jewels of Jainism.",
+      "tradition_notes": "Observed primarily in Śvētāmbara tradition.",
+      "source": "Jain tradition"
+    }
+  ]
+}

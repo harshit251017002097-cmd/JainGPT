@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "topic": "Jain Principles in Modern Life — Overview",
+      "keywords": ["modern life", "modern", "today", "contemporary", "apply", "daily life", "aaj kal"],
+      "summary": "Jain principles have natural applications to contemporary challenges. The core principles — Ahimsa, Aparigraha, Anekantavada, Satya — translate meaningfully to modern dilemmas like consumerism, social media use, career choices, environmental responsibility, and interpersonal conflict. JainGPT distinguishes between 'Traditional Jain teaching' (as stated in texts and tradition) and 'Modern interpretation/application' (how people reasonably apply these to contemporary life) — the latter is one reasonable application, not established doctrine.",
+      "tradition_notes": "Modern applications are interpretive — not all practicing Jains would agree on every application.",
+      "source": "Jain tradition; contemporary Jain thought"
+    },
+    {
+      "topic": "Aparigraha and Consumerism / Minimalism",
+      "keywords": ["consumerism", "minimalism", "shopping", "materialism", "possession", "buying", "stuff", "minimalist"],
+      "summary": "Traditional Jain teaching: Aparigraha means consciously limiting one's possessions to what is genuinely needed and avoiding the accumulation of wealth, material goods, or attachments beyond necessity. Modern interpretation: This can be applied to consumer culture as a deliberate practice of buying mindfully, avoiding impulse purchases, preferring quality over quantity, and questioning whether a purchase is need vs. want. This parallels modern minimalism movements. Note: this is one way people apply the principle — it is not a scriptural statement about shopping.",
+      "tradition_notes": "The principle is accepted universally; its modern application is interpretive.",
+      "source": "Jain tradition; Aparigraha principle"
+    },
+    {
+      "topic": "Ahimsa and Technology / AI",
+      "keywords": ["technology", "AI", "artificial intelligence", "tech", "computer", "social media", "internet"],
+      "summary": "Traditional Jain teaching: Ahimsa requires minimizing harm to all beings in thought, word, and action. Modern interpretation: applied to technology, one might consider: Does this use of technology cause harm to others (e.g., cyberbullying, data exploitation, misinformation)? Does it cause harm to the self (addictive use patterns)? Does it support or undermine environmental sustainability? These are modern ethical questions that the spirit of Ahimsa can inform. This is a reasonable application — not a Jain scripture's statement about AI.",
+      "tradition_notes": "Interpretive modern application.",
+      "source": "Jain tradition; Ahimsa principle"
+    },
+    {
+      "topic": "Anekantavada and Conflict Resolution",
+      "keywords": ["conflict", "disagreement", "argument", "perspective", "viewpoint", "tolerance", "understanding", "anekantavada"],
+      "summary": "Traditional Jain teaching: Anekantavada holds that every complex question has multiple valid perspectives, and no single viewpoint captures the full truth. Modern interpretation: This can be applied to interpersonal conflict — recognizing that others' perspectives are valid from their standpoint even when different from yours, and that 'winning' an argument by dismissing others' views may be missing part of the truth. In business negotiations, team disputes, or family conflicts, the Anekantavada mindset encourages seeking to understand all sides before concluding.",
+      "tradition_notes": "Anekantavada as a philosophical principle — its modern application is interpretive.",
+      "source": "Tattvartha Sutra; Anekantavada principle"
+    },
+    {
+      "topic": "Jain Principles for Students",
+      "keywords": ["students", "student", "study", "college", "school", "career", "education", "youth"],
+      "summary": "Traditional Jain teaching: Ahimsa extends to verbal and mental harm (bullying, gossip, harsh words); Satya means academic honesty; Aparigraha can apply to attachment to grades and outcomes; Anekantavada means being open to other students' viewpoints and not being rigid. Modern interpretation (for students): practice non-competitive respect for peers, avoid academic dishonesty, approach differing opinions with curiosity rather than dismissal, and maintain work-life balance by not over-attaching to results.",
+      "tradition_notes": "Interpretive modern application for student contexts.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Aparigraha and Social Media",
+      "keywords": ["social media", "instagram", "facebook", "twitter", "addiction", "phone", "scrolling", "likes"],
+      "summary": "Traditional Jain teaching: Aparigraha is non-attachment to possessions, approval, and outcomes. Parigraha (possessiveness) includes mental attachment — to validation, status, and others' opinions. Modern interpretation: Social media addiction can be seen through this lens as a form of craving for validation (likes, followers) — a subtle form of parigraha. Practicing intentional limits on social media use, unfollowing sources of envy or comparison, and reducing compulsive checking can be framed as a modern application of Aparigraha. This is one reasonable interpretation — not a scripture about smartphones.",
+      "tradition_notes": "Interpretive modern application.",
+      "source": "Jain tradition; Aparigraha principle"
+    },
+    {
+      "topic": "Jain Approach to Anger and Emotions",
+      "keywords": ["anger", "gussa", "emotion", "feelings", "jealousy", "negative emotions", "kashaya"],
+      "summary": "Traditional Jain teaching: The four great passions (Kashaya) — anger (krodha), pride (mana), deceit (maya), and greed (lobha) — are considered the primary causes of karma influx. Managing these is central to Jain spiritual practice. Modern interpretation: Jain teachings on Kashaya can be applied as a mindfulness framework — noticing when anger, pride, or jealousy arises, understanding that acting from these states binds karma, and practicing equanimity (samata) instead. This is consistent with modern mindfulness and emotional regulation approaches.",
+      "tradition_notes": "The Kashaya framework is accepted across both major traditions.",
+      "source": "Tattvartha Sutra; Jain tradition"
+    }
+  ]
+}

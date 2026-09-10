@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "topic": "Digambara and Śvētāmbara — Overview",
+      "keywords": ["digambara", "shwetambar", "svetambara", "digambar", "traditions", "sects", "difference", "antar"],
+      "summary": "Jainism has two major traditions: Digambara ('sky-clad') and Śvētāmbara ('white-clad'). Both accept the same Tirthankaras, the same core philosophy (Ahimsa, Anekantavada, karma theory, moksha), and the same ethical framework. Differences are primarily in monastic practice, scriptural canon, and certain doctrinal points. Both traditions have long and respected lineages of scholars, monks, and nuns.",
+      "tradition_notes": "Common ground: 24 Tirthankaras, five vows, karma theory, moksha as the goal. Differences: monastic dress, scriptural canon, women and moksha, some iconographic details.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Digambara Tradition — Key Beliefs and Practices",
+      "keywords": ["digambara", "sky clad", "naked monk", "nude", "digambar", "muni", "kundakunda"],
+      "summary": "Digambara means 'sky-clad.' Digambara monks practice complete nudity as the ultimate symbol of non-attachment — they give up even clothing. They use a peacock feather whisk (picchi) and a water gourd. Digambara doctrine holds that: (1) the original Jain Agamas were lost after Mahavira's nirvana; (2) a soul cannot achieve moksha in a female body; (3) a true monk must give up all possessions including clothing. Key Digambara philosophers include Kundakunda and Umasvati (also accepted by Śvētāmbara).",
+      "tradition_notes": "Digambara sub-traditions include Digambara Murtipujaka, Taranapanthi, and Kanji Panth (though the last is distinct).",
+      "source": "Digambara Jain tradition"
+    },
+    {
+      "topic": "Śvētāmbara Tradition — Key Beliefs and Practices",
+      "keywords": ["svetambara", "shwetambar", "white clad", "agama", "monk clothes", "nuns"],
+      "summary": "Śvētāmbara means 'white-clad.' Śvētāmbara monks and nuns wear simple white robes. Śvētāmbara doctrine holds that: (1) the Agamas were preserved after Mahavira's nirvana (though in modified form — the last council was held in Valabhi around 5th century CE); (2) women can achieve moksha in the current birth; (3) Mallinatha (19th Tirthankara) was female. Śvētāmbara has a richer preserved scriptural corpus. Key Śvētāmbara philosophers include Hemachandra.",
+      "tradition_notes": "Śvētāmbara sub-traditions include Murtipujaka (image-worshipping), Sthanakvasi (non-image-worshipping), and Terapanthi.",
+      "source": "Śvētāmbara Jain tradition"
+    },
+    {
+      "topic": "Sthanakvasi Sub-tradition",
+      "keywords": ["sthanakvasi", "sthanak", "non-image", "mouth cloth", "muhpatti"],
+      "summary": "Sthanakvasi is a Śvētāmbara sub-tradition that does not practice image worship (murti puja). They worship in plain halls (sthanaks) rather than decorated temples. Sthanakvasi monks and nuns wear a muhpatti (mouth cloth) at all times. They emphasize internal spirituality over ritual. The Sthanakvasi movement emerged in the 15th century.",
+      "tradition_notes": "Sthanakvasi is a sub-tradition of Śvētāmbara.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Terapanthi Sub-tradition",
+      "keywords": ["terapanthi", "terapanth", "bhikhu", "acharya tulsi", "preksha", "meditation"],
+      "summary": "Terapanthi is another Śvētāmbara sub-tradition, founded by Acharya Bhikhu in the 18th century. It is distinguished by a strict centralized hierarchy under a single Acharya (head monk). Terapanthi also does not practice image worship. The tradition is known for the Preksha Dhyana (meditation) system developed by Acharya Mahaprajna. The Anuvrat movement (promoting ethical values universally) was also associated with Terapanthi.",
+      "tradition_notes": "Terapanthi is a sub-tradition of Śvētāmbara with a highly organized central authority.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Women and Moksha — Tradition Difference",
+      "keywords": ["women moksha", "female moksha", "stri mukti", "women liberation", "gender"],
+      "summary": "One of the significant doctrinal differences between Digambara and Śvētāmbara concerns whether women can achieve moksha (liberation) in a female body. Digambara doctrine: women cannot achieve moksha in a female body — they must first be reborn as male monks. This is linked to the belief that complete nudity (impossible for women by social convention) is required for full renunciation. Śvētāmbara doctrine: women can achieve moksha in the current birth without being reborn as males. Mallinatha (19th Tirthankara) is cited as an example of a female Tirthankara in Śvētāmbara texts.",
+      "tradition_notes": "This is a genuine doctrinal difference — presenting one view as universal Jain teaching would be inaccurate. Both traditions have respected scholarly and textual support for their positions.",
+      "source": "Digambara texts; Nayadhammakahao (Śvētāmbara)"
+    }
+  ]
+}

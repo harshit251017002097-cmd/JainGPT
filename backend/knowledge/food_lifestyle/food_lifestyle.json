@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "topic": "Jain Vegetarianism and Food Practices",
+      "keywords": ["vegetarian", "food", "diet", "jain food", "khana", "vegetarianism", "eating"],
+      "summary": "Many practicing Jains follow a vegetarian diet as an expression of Ahimsa (non-violence). The strictness varies significantly by tradition, family, and individual commitment. Jain dietary observance typically avoids: meat, fish, eggs (as they are considered to have life or potential life). Stricter practitioners also avoid root vegetables (see below) and eating after sunset.",
+      "tradition_notes": "Diet practices vary widely. What is observed as mandatory in one family or tradition may be optional or absent in another. JainGPT avoids stating absolute dietary rules on behalf of all Jains.",
+      "source": "Jain tradition; Ahimsa principles"
+    },
+    {
+      "topic": "Why Jains Avoid Onion, Garlic, and Root Vegetables",
+      "keywords": ["onion", "garlic", "root vegetables", "potato", "why", "avoid", "underground"],
+      "summary": "Many practicing Jains avoid onion, garlic, and other root vegetables (such as potatoes, carrots, beets, radishes). The commonly given reason is that uprooting these vegetables destroys the entire plant and, more significantly, disturbs and harms the many tiny organisms (nigodas — microscopic souls) that live in and around the roots of the soil. This is considered a form of Ahimsa violation — causing greater harm than harvesting fruits or above-ground vegetables, which can often be harvested without destroying the whole plant. Note: this practice is not universal among all Jains — it varies by tradition, family, and personal commitment.",
+      "tradition_notes": "Observed more strictly in some families and traditions than others. Many Jains who identify with the religion do not follow this practice. The Jain position on root vegetables should always be presented as 'many practicing Jains...' not as an absolute rule.",
+      "source": "Jain tradition; Ahimsa principles"
+    },
+    {
+      "topic": "Eating After Sunset",
+      "keywords": ["sunset", "night eating", "nocturnal", "after dark", "eating at night", "ratri bhojan"],
+      "summary": "Many observant Jains do not eat after sunset (ratri bhojan tyaga). The reason is that at night, tiny organisms are more active and more likely to enter food, and it is also harder to see and sort out organisms from food in dim light. Eating at night therefore increases the risk of unintentionally harming more living beings. This is especially observed among monks and nuns, and by stricter lay practitioners.",
+      "tradition_notes": "More strictly observed among monastics and devout lay followers. Not universally practiced by all Jains. Practices vary by tradition and personal commitment.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Dairy in Jain Diet",
+      "keywords": ["dairy", "milk", "ghee", "butter", "cheese", "paneer", "lacto"],
+      "summary": "Traditionally, many Jains have consumed dairy products — milk, ghee, butter, paneer, curd — as part of their diet. This is because dairy was historically considered a by-product that does not require killing the animal. However, awareness of modern industrial dairy farming practices has led some contemporary Jains to question or avoid dairy as well, on Ahimsa grounds. There is no single universal Jain position on dairy — practices range from full dairy consumption to complete veganism, depending on tradition, family, and individual conscience.",
+      "tradition_notes": "Traditional Jain diet includes dairy. Some contemporary Jains choose veganism. Both positions can be seen as consistent with Ahimsa principles applied in different ways.",
+      "source": "Jain tradition; contemporary Jain discussions"
+    },
+    {
+      "topic": "Jain Lifestyle and Minimalism",
+      "keywords": ["lifestyle", "minimalism", "simple life", "jain life", "jain living", "minimalist"],
+      "summary": "Jain lay lifestyle is guided by the principle of Aparigraha (non-possessiveness) and Ahimsa in daily choices. This often manifests as: consuming mindfully (buying only what is needed), limiting waste, preferring occupations that do not cause harm (hence many Jains historically in trade, commerce, banking), and practicing regular religious observance (Samayika, temple visits, fasting). The extent of these practices varies enormously from devout practitioners to cultural Jains.",
+      "tradition_notes": "Lay lifestyle practices are not standardized — they represent a spectrum from strictly observant to nominally Jain.",
+      "source": "Jain tradition"
+    }
+  ]
+}

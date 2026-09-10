@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "topic": "Jain Agamas — Overview",
+      "keywords": ["agama", "agamas", "scripture", "text", "canon", "angas", "sacred text"],
+      "summary": "The Agamas are the canonical scriptures of Jainism, containing the teachings of Mahavira as recorded by his chief disciples (Ganadharas). They are organized into: 12 Angas (main limbs), 12 Upangas (sub-limbs), Mulasutras (root texts), Chedasutras (disciplinary texts), Prakirnakas (miscellaneous texts), and Culika Sutras (appendix texts). The Agamas are written primarily in Ardhamagadhi Prakrit.",
+      "tradition_notes": "Major Agamic difference: Digambara tradition holds that all original Agamas were lost after Mahavira's nirvana and the texts now called Agamas are later compositions. Śvētāmbara tradition holds that the Agamas were preserved, though agreed to have evolved through oral transmission and later written down at the Council of Valabhi (~5th century CE).",
+      "source": "Jain scriptural tradition"
+    },
+    {
+      "topic": "Tattvartha Sutra",
+      "keywords": ["tattvartha sutra", "tattvartha", "umasvati", "umasvami", "text", "scripture", "seven tattvas"],
+      "summary": "The Tattvartha Sutra (also known as Tattvarthashashtra), composed by Umasvati (also spelled Umasvami), is the most authoritative philosophical text in Jainism — and the only text universally accepted by both Digambara and Śvētāmbara traditions. Written in Sanskrit sutras (aphoristic style), it systematically presents the seven tattvas (fundamental realities): jiva, ajiva, ashrava, bandha, samvara, nirjara, and moksha. It is sometimes called the 'Jain Bible' for its cross-traditional authority.",
+      "tradition_notes": "Uniquely accepted by both Digambara and Śvētāmbara as authoritative — a rare point of scriptural consensus. Both traditions have their own commentaries on it.",
+      "source": "Tattvartha Sutra by Umasvati"
+    },
+    {
+      "topic": "Acharanga Sutra",
+      "keywords": ["acharanga sutra", "acharanga", "first anga", "mahavira teachings", "monastic rules"],
+      "summary": "The Acharanga Sutra is the first of the 12 Angas (canonical texts) in the Śvētāmbara tradition. It contains the rules of conduct for Jain monks and nuns, and notably the first anga of the Acharanga contains one of the oldest accounts of Mahavira's ascetic life and practices. It is one of the oldest texts in the Jain canon and provides vivid descriptions of Mahavira's hardships during his ascetic period.",
+      "tradition_notes": "Part of the Śvētāmbara Agamic canon. Digambara tradition does not accept it as the original text.",
+      "source": "Acharanga Sutra (Śvētāmbara Agama)"
+    },
+    {
+      "topic": "Kalpasutra",
+      "keywords": ["kalpasutra", "kalpa sutra", "bhadrabahu", "lives of tirthankaras", "jain biography"],
+      "summary": "The Kalpasutra is a celebrated Śvētāmbara text attributed to Bhadrabahu. It contains the biographies (charitra) of the Tirthankaras, especially the last four (Neminatha, Parshvanatha, Mahavira, and Rishabhanatha), rules for Jain monks during Paryushana, and a list of elder monks (sthavira vali). It is ritually recited during Paryushana. Beautifully illustrated Kalpasutra manuscripts are considered masterpieces of Jain art.",
+      "tradition_notes": "Kalpasutra is a Śvētāmbara text. Digambara tradition has its own biographical texts for the Tirthankaras.",
+      "source": "Kalpasutra by Bhadrabahu (Śvētāmbara)"
+    },
+    {
+      "topic": "Uttaradhyayana Sutra",
+      "keywords": ["uttaradhyayana", "uttaradhyayan sutra", "last discourse", "mahavira last"],
+      "summary": "The Uttaradhyayana Sutra is considered in Śvētāmbara tradition to contain the last discourses of Mahavira — the teachings he gave shortly before his nirvana. It covers topics like the nature of the soul, monastic rules, the 12 reflections (anupreksha), and narratives of monks who overcame worldly temptations. It is one of the most spiritually rich texts in the Śvētāmbara canon.",
+      "tradition_notes": "Part of the Śvētāmbara Agamic canon.",
+      "source": "Uttaradhyayana Sutra (Śvētāmbara Agama)"
+    }
+  ]
+}

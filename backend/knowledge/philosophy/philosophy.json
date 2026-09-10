@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "topic": "Ahimsa — Non-Violence",
+      "keywords": ["ahimsa", "non-violence", "nonviolence", "himsa", "violence", "harm"],
+      "summary": "Ahimsa (non-violence) is the foundational principle of Jainism — considered the supreme ethical virtue. It goes beyond physical harm to include violence in thought (bhav himsa) and speech. In Jain metaphysics, even plants and microorganisms have souls, so Ahimsa shapes everything from diet to occupation. Ahimsa is not just an ethical guideline — it is tied directly to karma: causing harm binds karma to the soul and obstructs liberation.",
+      "tradition_notes": "Ahimsa is universally accepted across all Jain traditions. The degree of observance varies between monastics (strictest) and lay followers.",
+      "source": "Tattvartha Sutra; Acharanga Sutra"
+    },
+    {
+      "topic": "Five Vows (Pancha Mahavrata / Anuvrata)",
+      "keywords": ["five vows", "pancha mahavrata", "anuvrata", "vows", "satya", "asteya", "brahmacharya", "aparigraha", "mahavrata"],
+      "summary": "Jainism prescribes five vows: (1) Ahimsa — non-violence; (2) Satya — truthfulness; (3) Asteya — non-stealing; (4) Brahmacharya — celibacy/chastity; (5) Aparigraha — non-possessiveness. For monks and nuns, these are the Mahavrata (great vows), observed absolutely. For lay followers, they are the Anuvrata (minor vows), observed with some practical latitude. Parshvanatha is associated with the first four; Mahavira added Brahmacharya as the fifth.",
+      "tradition_notes": "Both traditions accept the same five vows, with differences in their strictness of application for monks and laity.",
+      "source": "Tattvartha Sutra; Acharanga Sutra"
+    },
+    {
+      "topic": "Anekantavada — Non-Absolutism",
+      "keywords": ["anekantavada", "anekant", "non-absolutism", "many-sided", "reality", "pluralism", "intellectual"],
+      "summary": "Anekantavada (literally 'many-sidedness' or non-absolutism) is one of Jainism's most distinctive philosophical contributions. It holds that reality is complex and multi-faceted — no single viewpoint can capture the complete truth about any object or situation. Every statement about reality is conditionally true from one perspective. This principle encourages intellectual humility and tolerance of different viewpoints. The classic parable: blind men each describe an elephant differently — each is correct about their part, but none captures the whole.",
+      "tradition_notes": "Accepted across all Jain traditions as a foundational philosophical principle.",
+      "source": "Tattvartha Sutra; Syadvadamanjari"
+    },
+    {
+      "topic": "Syadvada — Conditional Predication",
+      "keywords": ["syadvada", "saptabhangi", "maybe", "conditional", "seven-fold", "nayavada", "syat"],
+      "summary": "Syadvada (literally 'doctrine of maybe/perhaps') is the linguistic and logical tool Jain philosophers developed to express Anekantavada. Every statement is prefixed with 'syat' (in some respect/conditionally) to show it is true from one perspective, not absolutely. The Saptabhangi (seven-fold predication) extends this: any proposition can be affirmed, denied, affirmed-and-denied, inexpressible, etc., depending on the perspective. This is a sophisticated epistemological framework unique to Jainism.",
+      "tradition_notes": "Both traditions accept Syadvada as the proper way to make philosophical claims.",
+      "source": "Syadvadamanjari; Tattvartha Sutra"
+    },
+    {
+      "topic": "Nayavada — Theory of Perspectives",
+      "keywords": ["nayavada", "naya", "standpoint", "perspective", "partial", "viewpoint"],
+      "summary": "Nayavada is the theory of standpoints or partial viewpoints. A 'naya' is a partial perspective on reality — a single valid angle from which something can be described. Nayavada provides a systematic catalog of the kinds of perspectives one can take (e.g., from the perspective of substance, time, mode, etc.). It is closely related to Anekantavada and Syadvada — together, these three form Jainism's epistemological framework for understanding reality without absolutism.",
+      "tradition_notes": "Both traditions accept Nayavada as part of Jain epistemology.",
+      "source": "Tattvartha Sutra"
+    },
+    {
+      "topic": "Aparigraha — Non-Possessiveness",
+      "keywords": ["aparigraha", "non-possessiveness", "non-attachment", "possessions", "attachment", "minimalism"],
+      "summary": "Aparigraha means non-possessiveness or limiting one's possessions and attachments. In Jainism, excessive attachment to material things, people, opinions, and even emotions binds karma to the soul. For monastics, Aparigraha means giving up all possessions; for lay followers, it means consciously limiting possessions to what is genuinely needed and avoiding greed. Aparigraha is one of the five vows and applies to internal attachment (parigraha) as well as physical possessions.",
+      "tradition_notes": "Digambara monks practice the strictest form — owning literally nothing, not even clothing. Śvētāmbara monks own a few permitted items (alms bowl, cloth). Lay practice of Aparigraha varies by individual commitment.",
+      "source": "Tattvartha Sutra"
+    },
+    {
+      "topic": "Karma Theory — Bandha, Samvara, Nirjara",
+      "keywords": ["karma theory", "bandha", "samvara", "nirjara", "karma influx", "stoppage", "shedding", "ashrava"],
+      "summary": "Jain karma theory describes four key processes: (1) Ashrava — influx of karma particles into the soul due to passions and activities; (2) Bandha — binding of karma to the soul; (3) Samvara — stoppage of new karma influx through right conduct, vows, and meditation; (4) Nirjara — shedding of existing karma through austerity and equanimity. The goal is to achieve complete Nirjara with no new Ashrava — resulting in moksha.",
+      "tradition_notes": "This karma theory is foundational and accepted across all Jain traditions.",
+      "source": "Tattvartha Sutra"
+    },
+    {
+      "topic": "Jiva and Ajiva",
+      "keywords": ["jiva", "ajiva", "soul", "matter", "living", "non-living", "dravya"],
+      "summary": "Jain metaphysics divides all reality into two fundamental categories: Jiva (soul/living substance) and Ajiva (non-living matter). Jiva has the quality of consciousness. Ajiva includes: Pudgala (matter/physical), Dharma (medium of motion), Adharma (medium of rest), Akasha (space), and Kala (time). The interaction of Jiva with karma Pudgala (subtle matter) is the cause of bondage and the world of experience.",
+      "tradition_notes": "This ontological framework is shared across all Jain traditions.",
+      "source": "Tattvartha Sutra"
+    },
+    {
+      "topic": "Punya and Papa",
+      "keywords": ["punya", "papa", "merit", "sin", "good karma", "bad karma", "positive", "negative"],
+      "summary": "Punya (merit) is the result of virtuous thoughts, words, and deeds — it produces positive karma that leads to favorable rebirths and experiences. Papa (sin/demerit) results from harmful actions and produces negative karma leading to unfavorable experiences. However, in Jainism, both Punya and Papa ultimately bind the soul to samsara — even merit keeps the soul in the cycle of rebirth. True liberation requires transcending both, not just maximizing Punya.",
+      "tradition_notes": "Both traditions agree that even Punya (merit) must ultimately be transcended for moksha.",
+      "source": "Tattvartha Sutra; Jain doctrine"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "topic": "Jain Ethics Overview",
+      "keywords": ["ethics", "ethical", "morality", "values", "jain values", "conduct", "naitikta"],
+      "summary": "Jain ethics are grounded in Ahimsa, but extend to a comprehensive system of virtuous living. Key ethical principles include: Ahimsa (non-violence in thought, word, action), Satya (truthfulness), Asteya (non-stealing), Brahmacharya (celibacy/sexual restraint), Aparigraha (non-possessiveness), Kshama (forgiveness), Vinaya (humility), Daya (compassion), and Tapas (austerity). Together they form a path of reducing harm to all beings while cultivating inner purity.",
+      "tradition_notes": "These ethical principles are broadly shared across all Jain traditions, with differences only in degree of strictness (monastic vs. lay).",
+      "source": "Tattvartha Sutra; Jain tradition"
+    },
+    {
+      "topic": "Kshama — Forgiveness",
+      "keywords": ["kshama", "forgiveness", "maafi", "micchami dukkadam", "forgive", "samvatsari"],
+      "summary": "Kshama (forgiveness) is considered one of the highest virtues in Jainism. The annual ritual of Samvatsari (during Paryushana) is centered on seeking and granting forgiveness from all beings. The Jain phrase 'Micchami Dukkadam' (Prakrit) means: 'May all the evil that I have done be fruitless' or more colloquially: 'If I have hurt you in any way, please forgive me.' Kshama is directed both inward (forgiving oneself) and outward (forgiving others and asking forgiveness).",
+      "tradition_notes": "Universal across all Jain traditions. The phrase 'Micchami Dukkadam' is primarily Śvētāmbara; Digambara equivalent is 'Uttam Kshama.'",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Animal Welfare and Environmental Responsibility",
+      "keywords": ["animal welfare", "animals", "environment", "nature", "ecology", "environmental", "sustainability"],
+      "summary": "Jainism's principle of Ahimsa extends naturally to a strong ethic of animal welfare and environmental care. In Jain cosmology, every element of nature — earth, water, fire, air, and plants — has souls (jivas) with varying degrees of consciousness. Causing unnecessary harm to any of them generates karma. Historically, Jains have supported animal shelters (panjrapoles), advocated for not harming animals in food production, and practiced minimalism as an environmental ethic.",
+      "tradition_notes": "Shared across traditions. The degree of environmental practice varies by individual.",
+      "source": "Jain tradition; Ahimsa principles"
+    },
+    {
+      "topic": "Satya — Truthfulness",
+      "keywords": ["satya", "truth", "truthfulness", "honesty", "lie", "sach"],
+      "summary": "Satya (truthfulness) is the second of the five Jain vows. It means speaking only what is true, beneficial, and pleasant — never speaking harshly, deceitfully, or in ways that harm others. The Jain concept of Satya is nuanced: even a true statement can be a form of himsa (violence) if it causes unnecessary harm. So the ideal is 'ahimsa-inclusive truth' — truth that is kind and does not wound. One must also avoid encouraging others to speak falsehood.",
+      "tradition_notes": "Accepted across all traditions as the second Mahavrata (great vow) for monks and Anuvrata (minor vow) for laity.",
+      "source": "Tattvartha Sutra"
+    },
+    {
+      "topic": "Brahmacharya — Celibacy and Sexual Restraint",
+      "keywords": ["brahmacharya", "celibacy", "chastity", "sexual", "restraint", "fourth vow"],
+      "summary": "Brahmacharya is the fourth of the five vows in Jainism, meaning celibacy or sexual restraint. For monks and nuns, it means complete celibacy. For lay practitioners, it means fidelity in marriage and avoiding sexual relations outside of marriage. The principle is based on controlling one's passions — sexual desire being seen as a form of attachment (parigraha of the senses) that binds karma. Mahavira added Brahmacharya as the fifth vow to the four vows of Parshvanatha.",
+      "tradition_notes": "Observed at different levels of strictness by monastics and laity. Both traditions accept Brahmacharya as a fundamental vow.",
+      "source": "Tattvartha Sutra; Jain tradition"
+    }
+  ]
+}

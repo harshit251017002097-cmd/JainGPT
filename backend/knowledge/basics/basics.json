@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "topic": "What is Jainism",
+      "keywords": ["jainism", "what is jainism", "jainism kya hai", "religion", "dharma", "jain"],
+      "summary": "Jainism is one of the world's oldest religions, originating in ancient India. At its core, it teaches non-violence (Ahimsa), truthfulness (Satya), and non-attachment (Aparigraha) as the path toward liberating the soul (jiva) from the cycle of rebirth (samsara). It's practiced today primarily by the Jain community, especially in India. Jainism has no creator god — it is an atheistic religion in the sense that it does not believe in a God who created the universe. Instead, it teaches that every soul can achieve liberation through its own effort.",
+      "tradition_notes": "Both Digambara and Śvētāmbara traditions share these foundational beliefs. Differences are mainly in practice, scripture, and monastic rules.",
+      "source": "General Jain doctrine"
+    },
+    {
+      "topic": "Jain Worldview and Soul (Jiva)",
+      "keywords": ["jiva", "soul", "atma", "worldview", "universe", "cosmos", "living being"],
+      "summary": "In Jainism, every living being has a soul (jiva). The universe is eternal and uncreated. Souls are classified based on their number of senses, from one-sensed beings (like plants and microorganisms) to five-sensed beings with a mind (like humans). The goal of every soul is to achieve liberation (moksha) by shedding all karma.",
+      "tradition_notes": "Both traditions agree on the classification of souls and the path to liberation.",
+      "source": "Tattvartha Sutra by Umasvati"
+    },
+    {
+      "topic": "Karma in Jainism",
+      "keywords": ["karma", "karmic", "bandha", "karm", "actions", "punya", "papa", "sin", "merit"],
+      "summary": "In Jainism, karma is understood as a subtle physical matter (karma varganas) that clings to the soul based on one's thoughts, words, and actions. Good actions and intentions accumulate punya (merit); harmful ones accumulate papa (demerit). Unlike some other traditions, karma in Jainism is a literal material substance, not just a metaphor. The goal is to stop new karma from binding (samvara) and to shed existing karma (nirjara) until the soul is completely free.",
+      "tradition_notes": "Both Digambara and Śvētāmbara accept the same karma theory. Differences are in interpretation of certain types of karma.",
+      "source": "Tattvartha Sutra; Jain karma theory"
+    },
+    {
+      "topic": "Moksha and Liberation",
+      "keywords": ["moksha", "liberation", "mukti", "nirvana", "free", "samsara", "rebirth", "cycle"],
+      "summary": "Moksha is the liberation of the soul from the cycle of rebirth (samsara). In Jainism, moksha occurs when all karma is completely shed and the soul rises to the top of the universe (Siddhashila), where it remains in a state of perfect knowledge, perfect bliss, and non-worldly existence forever. The path to moksha is through the Ratnatraya (Three Jewels): Right Faith, Right Knowledge, and Right Conduct.",
+      "tradition_notes": "Digambara tradition holds that moksha can only be achieved after complete renunciation, including clothing. Traditionally, Digambara texts state women cannot achieve moksha in a female body. Śvētāmbara tradition holds that women can achieve moksha in the current birth.",
+      "source": "Tattvartha Sutra"
+    },
+    {
+      "topic": "Tirthankaras",
+      "keywords": ["tirthankara", "tirthankar", "ford-maker", "24", "jina", "ford", "teacher"],
+      "summary": "A Tirthankara is a human being who has attained omniscience (Kevala Jnana) through self-realization and then preaches the path to liberation to help others. In Jainism, 24 Tirthankaras appear in each cosmic cycle. The word 'Tirthankara' means 'ford-maker' — one who creates a crossing over the ocean of worldly existence. They are venerated but not prayed to for intervention, as they are beyond worldly concerns after achieving liberation.",
+      "tradition_notes": "Both traditions revere the same 24 Tirthankaras. Some iconographic and hagiographic details differ.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Ratnatraya — Three Jewels",
+      "keywords": ["ratnatraya", "three jewels", "right faith", "right knowledge", "right conduct", "samyak", "darshana", "jnana", "charitra"],
+      "summary": "The Ratnatraya (Three Jewels) is the Jain path to liberation: (1) Samyak Darshana — Right Faith: belief in the true nature of reality as taught by Jainism; (2) Samyak Jnana — Right Knowledge: accurate understanding of the soul, karma, and the universe; (3) Samyak Charitra — Right Conduct: ethical behavior including the five vows. All three must be practiced together — none alone is sufficient.",
+      "tradition_notes": "Accepted by both Digambara and Śvētāmbara traditions.",
+      "source": "Tattvartha Sutra"
+    },
+    {
+      "topic": "Jain Cosmology",
+      "keywords": ["cosmos", "universe", "cosmology", "loka", "aloka", "lokapurusha", "siddhashila", "heavens", "hells"],
+      "summary": "The Jain universe is eternal and uncreated. It is depicted as shaped like a cosmic person (Lokapurusha) and is divided into three realms: the upper world (heavens), the middle world (where humans and animals live), and the lower world (hells). Above the universe is the Siddhashila — the abode of liberated souls (Siddhas). The universe operates by natural law, not divine will.",
+      "tradition_notes": "Cosmological details are broadly shared across traditions, with minor textual variations.",
+      "source": "Jain cosmological texts"
+    }
+  ]
+}

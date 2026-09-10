@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "topic": "Samayika — Meditation Practice",
+      "keywords": ["samayika", "meditation", "equanimity", "48 minutes", "ritual"],
+      "summary": "Samayika is one of the six essential duties (avashyaka) for Jain lay followers. It involves sitting in a peaceful posture for 48 minutes in a state of equanimity — giving up all worldly concerns, attachments, and aversions and focusing on the pure self. During Samayika, one recites prayers, reads scriptures, or meditates. It is described as temporarily experiencing the state of a monk or nun. The practice is intended to cultivate inner peace and reduce karmic influx.",
+      "tradition_notes": "Observed in both Digambara and Śvētāmbara traditions. The specific prayers and mantras recited may vary.",
+      "source": "Tattvartha Sutra; Jain tradition"
+    },
+    {
+      "topic": "Pratikramana — Confession and Repentance",
+      "keywords": ["pratikramana", "repentance", "confession", "forgiveness", "reflection", "ritual"],
+      "summary": "Pratikramana ('returning') is the ritual of self-reflection, confession, and repentance for transgressions against the vows. Jains perform Pratikramana twice daily (devasi — evening, raisi — morning), weekly, four-monthly, and annually (at Paryushana). It involves reciting prayers acknowledging harm done to any living being through thought, word, or action — and asking for forgiveness. Pratikramana is one of the most important and regularly practiced Jain rituals.",
+      "tradition_notes": "Observed by both Digambara and Śvētāmbara, with different texts and rituals used. Digambara Pratikramana practices differ from Śvētāmbara ones significantly in form.",
+      "source": "Jain tradition; Avashyaka Sutra (Śvētāmbara)"
+    },
+    {
+      "topic": "Puja — Temple Worship",
+      "keywords": ["puja", "worship", "temple", "idol", "image", "abhishek", "anga puja"],
+      "summary": "Puja (worship) in Jainism involves veneration of the Tirthankaras and other revered figures through rituals. Anga Puja (bodily worship) involves physically touching or anointing the idol with substances like sandalwood paste, saffron, flowers, and rice. Agra Puja (worship from a distance) involves offerings placed before the idol without touching it. The purpose of Puja is not to ask for boons (Tirthankaras cannot intervene in worldly affairs) but to inspire oneself by focusing on their qualities.",
+      "tradition_notes": "Image worship (murti puja) is practiced by Digambara Murtipujaka and Śvētāmbara Murtipujaka traditions. Sthanakvasi and Terapanthi do not worship images (idols). The style and items used in Puja differ between Digambara and Śvētāmbara.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Sallekhana (Santhara) — Fasting unto Death",
+      "keywords": ["sallekhana", "santhara", "fasting death", "voluntary death", "ahimsa death", "peaceful death"],
+      "summary": "Sallekhana (also called Santhara) is the Jain practice of voluntarily fasting unto death when the body is no longer able to maintain ascetic vows (due to extreme old age, terminal illness, or severe disability). It involves gradually reducing food and water intake while maintaining equanimity, prayer, and meditation. It is considered the most auspicious death in Jainism — a conscious, fearless departure from the body. It is distinct from suicide: it is not motivated by despair or passion, but by spiritual readiness and equanimity.",
+      "tradition_notes": "Accepted by both Digambara and Śvētāmbara traditions as a legitimate and revered practice under specific conditions. It has faced some legal scrutiny in India.",
+      "source": "Tattvartha Sutra; Jain tradition"
+    },
+    {
+      "topic": "Jain Fasting Practices",
+      "keywords": ["fasting", "upavasa", "ekasana", "ayambil", "fast", "vrat"],
+      "summary": "Jainism has a rich tradition of fasting as a tool for spiritual progress and karmic shedding. Key fasting practices: (1) Upavasa — complete fast (no food, only boiled water); (2) Ekasana — eating only once a day; (3) Ayambil — eating one bland, flavorless meal daily (no spices, oil, green vegetables, dairy during this fast); (4) Bela — two-day fast; (5) Tela — three-day fast; (6) Attham — eight-day fast; (7) Maskhaman — month-long fast. Fasting is done with the intention of spiritual growth, not as a punishment.",
+      "tradition_notes": "Both traditions practice fasting. Specific fasts and their associated festivals may vary.",
+      "source": "Jain tradition"
+    },
+    {
+      "topic": "Diksha — Monastic Initiation",
+      "keywords": ["diksha", "initiation", "monk", "nun", "renunciation", "sadhu", "sadhvi", "ordination"],
+      "summary": "Diksha is the formal initiation ceremony by which a person becomes a Jain monk (sadhu) or nun (sadhvi). It involves the renunciation of all worldly ties: family, possessions, career, social position, and — in Digambara tradition — clothing. The initiate pulls out their hair in five fistfuls (kesh lochan) as a symbolic act of detachment. After Diksha, the monk or nun observes the Mahavrata (five great vows) strictly and follows elaborate rules of conduct.",
+      "tradition_notes": "Digambara Diksha for monks involves complete nudity and more restrictive rules. Śvētāmbara monks and nuns wear white robes and have different conduct rules. The ceremony and its elements differ between traditions.",
+      "source": "Jain tradition"
+    }
+  ]
+}
